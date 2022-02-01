@@ -2,4 +2,4 @@
 Welcome to Gumbili Project
 
 ## What is Gumbili?
-Gumbili is a fast and reliable web framework for your project. 
+Gumbili is a type of sweet potato that has a soft texture and a sweet taste.
